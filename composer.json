@@ -1,0 +1,19 @@
+{
+    "require": {
+        "stripe/stripe-php": "^6.19",
+        "phpmailer/phpmailer": "^6.0"
+    },
+	
+    "autoload": {
+        "classmap": [
+          "core/",
+            "plugins/"
+
+        ],
+
+		"psr-4": {
+			"App\\":"app",
+			"Models\\":"models"
+		}
+	}
+}

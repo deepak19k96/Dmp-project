@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3c7f844-7796-4b1c-ba25-5866bd72db23" name="Seed">
+        <fileTransfer rootFolder="/home/seedproject/public_html" accessType="SFTP" host="149.28.110.58" port="1157" sshConfigId="ea2fda33-6f96-475a-842f-48b42dea57e7" sshConfig="seedproject@149.28.110.58:1157 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

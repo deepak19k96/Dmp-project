@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a99fcb9-3494-4487-b901-992a64ed33b8" name="Default Changelist" comment="made changes">
+      <change afterPath="$PROJECT_DIR$/dashboard/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/controllers/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/controllers/html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/models/games_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/models/index_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/models/login_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/views/_error/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/views/index/html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/views/partial/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/views/wrapper/admin/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/views/wrapper/site/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeedProject Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeedProject Framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/controllers/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/controllers/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/controllers/games.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/controllers/games.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/models/games_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/models/games_model.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Carlos Arias &lt;carlosja80@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/jasongrimes/paginator" />
+      <path value="$PROJECT_DIR$/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/goetas-webservices/xsd2php-runtime" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1t8FwabOOFghNPPkrQs9EZaWlwd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dashboard" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Dropbox\__Investment Properties\SeedProject Framework\dashboard" />
+      <recent name="H:\Dropbox\__Investment Properties\SeedProject Framework" />
+      <recent name="H:\Dropbox\__Investment Properties\SeedProject Framework\public\models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a99fcb9-3494-4487-b901-992a64ed33b8" name="Default Changelist" comment="" />
+      <created>1622143048826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622143048826</updated>
+      <workItem from="1622143053125" duration="2813000" />
+      <workItem from="1622466586973" duration="18000" />
+      <workItem from="1623107410334" duration="1536000" />
+      <workItem from="1623202125689" duration="22000" />
+      <workItem from="1624484699451" duration="972000" />
+      <workItem from="1625582005450" duration="1537000" />
+      <workItem from="1625834501692" duration="1222000" />
+      <workItem from="1626011454077" duration="5369000" />
+      <workItem from="1626095227829" duration="4091000" />
+      <workItem from="1626179073380" duration="691000" />
+      <workItem from="1626274841024" duration="2254000" />
+      <workItem from="1626561198283" duration="3742000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated htaccess and updated vendor files">
+      <created>1622143193153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622143193153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated htaccess and updated vendor files">
+      <created>1622145548887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622145548887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated htaccess and updated vendor files">
+      <created>1622145567550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622145567550</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated htaccess and updated vendor files">
+      <created>1622145594962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622145594962</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1622145652573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622145652573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1623107478152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623107478152</updated>
+    </task>
+    <task id="LOCAL-00007" summary="index model">
+      <created>1623169005409</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623169005409</updated>
+    </task>
+    <task id="LOCAL-00008" summary="made changes">
+      <created>1624484791764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624484791764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated vendor files" />
+    <MESSAGE value="updated htaccess and updated vendor files" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="update" />
+    <MESSAGE value="index model" />
+    <MESSAGE value="made changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="made changes" />
+  </component>
+</project>

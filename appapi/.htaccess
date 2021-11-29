@@ -1,0 +1,33 @@
+<Files php.ini>  
+	order allow,deny  
+	deny from all  
+</Files>  
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+
+
+
+#ErrorDocument 404 /404.php
+ErrorDocument 500 /error
+
+RewriteEngine On
+
+RewriteRule ^(admin|lab|plugins)($|/) - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+
+ 
